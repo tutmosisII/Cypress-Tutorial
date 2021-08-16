@@ -2,7 +2,7 @@
 
 Correr comandos desde al terminal es una característica que se peude lograr usando la propiedad **script** de **pakage.json**
 
-Adiciona la línea de apertura en la lista de scripts de [pakage.json](Proyecto-Prueba/package.json)
+Adiciona la línea de apertura en el objeto de scripts de [pakage.json](Proyecto-Prueba/package.json)
 ```bash
 "scripts": {
 

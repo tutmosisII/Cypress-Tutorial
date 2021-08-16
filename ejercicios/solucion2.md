@@ -2,12 +2,12 @@
 
 ## 1. Correr Cypress con Chrome
 
-En la lista de scripts adiciona lo siguiente:
+En el objeto de scripts adiciona lo siguiente:
 
 ```javascript
 "scripts": {
 
-"chrome": "npx cypress run --browser chrome"
+"test:chrome": "npx cypress run --browser chrome"
 
 }
 ```
@@ -15,12 +15,19 @@ En la lista de scripts adiciona lo siguiente:
 
 ## 2. Correr Cypress con firefox
 
-En la lista de scripts adiciona lo siguiente:
+En el objeto de scripts adiciona lo siguiente:
 
 ```javascript
 "scripts": {
 
-"firefox": "npx cypress run --browser firefox"
+"test:firefox": "npx cypress run --browser firefox"
 
 }
+```
+
+Con las respectivas líneas en su lugar, solo queda pendiente ejecutar las pruebas.
+
+```bash
+npm run test:chrome
+npm run test:firefox
 ```
