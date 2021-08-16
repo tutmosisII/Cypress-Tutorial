@@ -24,3 +24,12 @@ asciinema play images/proyecto1.cast
 Esto le dará una excenlente idea de lo que se espera al momento de realizarlo.
 
 # [Ejercicio 2.](ejercicios/Ex2.md)
+
+Si tiene instalado asciinema puede reproducir los comandos para la elaboración del ejercicio así:
+
+```bash
+asciinema play images/proyecto2.cast
+```
+**click sobre la imagen**
+[![Pry1](https://asciinema.org/a/430645.png)](https://asciinema.org/a/430645?autoplay=1)
+Esto le dará una excenlente idea de lo que se espera al momento de realizarlo.
