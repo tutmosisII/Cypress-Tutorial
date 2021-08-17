@@ -1,6 +1,6 @@
 # Cypress
 
-Es un marco de trabajo para pruebas desarrollado en [Nodejs]() que requiere poca configuración.
+Es un marco de trabajo para pruebas desarrollado en [Nodejs](https://nodejs.org/es/) que requiere poca configuración.
 
 Desarrollado principalmente para desarrolladores que suelen escribir sus aplicaciones en Javascript, dado que suele desarrollar aplicaciones que corren en un navegador.
 
@@ -11,8 +11,10 @@ Actualmente Cypress es compatible con Firefox, Chrome, Edge y toda la familia de
 - [Ejercicio 1.](#ejercicio-1)
 - [Scripts de npm](npmscripts.md)
 - [Ejercicio 2.](#ejercicio-2)
+- [Ejecución de Comandos](comando-cypress.md)
   
 # [Ejercicio 1.](ejercicios/Ex1.md)
+
 
 Si tiene instalado asciinema puede reproducir los comandos para la elaboración del ejercicio así:
 
