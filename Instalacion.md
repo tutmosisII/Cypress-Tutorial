@@ -13,7 +13,7 @@ node -v
 ```
 # Instalación de Cypress.
 
-**Buena Práctica:" Se suele instalar Cypress en el directorio del proyecto.
+**"Buena Práctica:"** Se suele instalar Cypress en el directorio del proyecto.
 
 Para esta primer prueba vamos a:
 * crear un directorio de proyecto

@@ -6,7 +6,7 @@
 cd Proyecto-Prueba
 ```
 
-## 2. Ejecute las pruebas autogenedadas.
+## 2. Ejecute las pruebas autogeneradas.
 
 ```bash
 npx cypress open
